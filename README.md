@@ -6,4 +6,5 @@ This project analyzes Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electr
 
 
 📊 Student Spending Pattern Analysis (Power BI)
+
 Designed an interactive sales dashboard to analyze student spending across categories like Video Games, Indoor Games, Toys, Books, and Gadgets. Implemented conditional formatting and advanced visualizations (funnel, pie charts) to highlight spending trends. Applied Row-Level Security (RLS) to restrict data access based on user roles and store locations. Future improvements include real-time data integration and predictive analytics for better insights.
